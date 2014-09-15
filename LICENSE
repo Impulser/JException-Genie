@@ -1,14 +1,54 @@
-Copyright (c) 2014, Alex Camilleri <>
+ISC License - JException-Genie
+
+General
+
+The license InfernoMod uses grants free access to source code for any purpose you wish. To avoid license compatibility issues, we ask you to put your contributions to this project under the same license as we do with ours.
+
+If you contribute to InfernoMod, you license your code to the public under the ISC license (and CC-by license for other media).
+You must therefore be able to grant this license.
+
+This means that you either;
+ 1. Hold the copyright to the contribution, which is the case if you produced it yourself.
+ 2. You have acquired the work from a source that is ISC / CC-by compatible, for example code in the public domain or code that itself underlies the ISC license. 
+ 
+In the first case, you retain your copyright. You never need to transfer your copyright to the InfernoMod project. You can relicense your work to other parties any way you like. However, you cannot withdraw your license under the terms of the ISC license.
+
+The ISC license
 
 Permission to use, copy, modify, and/or distribute this software for any
+
 purpose with or without fee is hereby granted, provided that the above
+
 copyright notice and this permission notice appear in all copies.
 
+
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+
 WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+
 MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+
 ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+
+Frequently Asked Questions
+
+Can I contribute work to InfernoMod which falls under the GPL?
+
+No. The GPL license requires everything to be distributed on its terms, and we have contributors who do not want that. However, if you are the copyright holder of the work and are willing to re-license the work under ISC license terms, you can do that.
+
+
+What about other licenses?
+
+Other permissive licenses like the MIT license or BSD licenses as well as public domain (of course). LGPL code is okay for libraries, too.
+
+
+May I use ISC licensed work in a GPL project?
+
+Under the terms of the ISC license, you may do that - of course you still need to abide to the ISC license and print the copyright notice and the license in all copies.
